@@ -1,6 +1,6 @@
 {
   "name": "@tjohnson/mf-example-details",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
