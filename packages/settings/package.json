@@ -1,6 +1,6 @@
 {
   "name": "@tjohnson/mf-example-settings",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "73b5a04abf44a10ef191059255259dd46aadba3b"
+  "gitHead": "4abbd9d86eb479e7d11d1f886e2adfcfa3f15768"
 }
