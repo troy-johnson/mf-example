@@ -1,6 +1,6 @@
 {
   "name": "@tjohnson/mf-example-search",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -38,5 +38,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "73b5a04abf44a10ef191059255259dd46aadba3b"
 }
