@@ -3,7 +3,6 @@
     [
       "@babel/env",
       "@babel/preset-react",
-      "@babel/plugin-syntax-jsx",
       {
         "targets": {
           "edge": "17",
