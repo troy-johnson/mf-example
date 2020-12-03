@@ -2,10 +2,10 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import "./index.css";
-import Home from "../packages/home/src/Home";
-import Details from "@tjohnson/mf-example-details/src/Details";
-import Search from "@tjohnson/mf-example-details/src/Search";
-import Settings from "@tjohnson/mf-example-settings/src/Settings";
+import Home from "@tjohnson/mf-example-home/dist/";
+// import Details from "@tjohnson/mf-example-details";
+// import Search from "@tjohnson/mf-example-search";
+// import Settings from "@tjohnson/mf-example-settings";
 
 ReactDOM.render(
   <React.StrictMode>
